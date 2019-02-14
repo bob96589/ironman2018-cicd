@@ -10,4 +10,4 @@ spec:
   type: NodePort
   selector:
     app: ithome
-    env: current
+    env: develop
